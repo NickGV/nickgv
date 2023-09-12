@@ -4,7 +4,7 @@ Hello! My name is Nicolás Gómez, a young programmer on a journey to become a f
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nicolás-Gómez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-g%C3%B3mez-902361274/)
 
 # 💻 Tech Stack:
 
@@ -19,6 +19,7 @@ Hello! My name is Nicolás Gómez, a young programmer on a journey to become a f
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=NickGV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=NickGV&limit=5&theme=onedark&combine_all_yearly_contributions=true)
